@@ -1,4 +1,47 @@
-My name is Sai Eswar Boda. I am currently a graduate student studying Information Technology from the School of Information Technology at the University of Cincinnati at Cincinnati expecting to graduate in Spring 2022. Prior to my master I am 4.11+ years experienced enterprising software engineering & professional gained hands-on experience in designing, implementing, and installing software solutions and developing high-quality software designs & architecture. Adept at brainstorming & creating various tools and applications by producing efficient code, conducting systems analysis to improve operations, and automating tasks through appropriate tools & scripting. Proficient in interacting with the clients to successfully execute multiple big-ticket projects within the stipulated time while ensuring 100% client satisfaction. 
-I have a strong passion for programming, problem solving, and UI/UX design and I love being able to apply those skills on large scale projects! Welcome to my GitHub page!
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<<<<<<<<<<I'm still cooking my GitHub>>>>>>>>>>>>>>>>>>>>>>
+###
+
+<p align="left">My name is Sai Eswar Boda and I'm a Solution Developer, from the United States.<br>I am an experienced software engineer specializing in full-stack web development and healthcare IT solutions. With a Master's degree in Information Technology and a Post Graduate Certificate in Data Science, I am passionate about building impactful software solutions that are efficient, secure, and scalable. Throughout my career, I've delivered a variety of projects across different domains, including healthcare, education, and finance.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning advanced React, TypeScript, AWS Lambda, and Machine Learning.<br>🎯 Goals: Contribute to more open-source projects, expand my expertise in cloud-native architectures, and build a platform to simplify clinical trial management.<br>🎲 Fun fact: I once automated my morning routine using Python scripts and smart home devices. about me</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+</div>
+
+###
