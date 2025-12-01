@@ -47,7 +47,17 @@
 ###
 
 <div align="center">
-  <img src="./github-stats.svg" width="100%" />
+
+  <!-- Languages -->
+  <img src="./languages.svg" width="100%" />
+  
+  <!-- Activity Graph -->
+  <img src="./activity.svg" width="100%" />
+
+</div>
+
+<div align="center">
+  <sub>Stats include private contributions</sub>
 </div>
 
 ###
