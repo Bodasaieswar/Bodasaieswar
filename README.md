@@ -47,7 +47,7 @@
 ###
 
 <div align="center">
-  <img src="./github-stats.svg" alt="GitHub Stats" />
+  <img src="./github-stats.svg" width="100%" />
 </div>
 
 ###
