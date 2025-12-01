@@ -47,7 +47,22 @@
 ###
 
 <div align="center">
-  <img src="./stats.svg" width="100%" />
+
+<picture>
+  <source srcset="https://raw.githubusercontent.com/bodasaieswar/github_stats/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/bodasaieswar/github_stats/main/output/stats_commits.svg" width="100%">
+</picture>
+
+<picture>
+  <source srcset="https://raw.githubusercontent.com/bodasaieswar/github_stats/main/output/stats_langs.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/bodasaieswar/github_stats/main/output/stats_langs.svg" width="100%">
+</picture>
+
+<picture>
+  <source srcset="https://raw.githubusercontent.com/bodasaieswar/github_stats/main/output/stats_general.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/bodasaieswar/github_stats/main/output/stats_general.svg" width="100%">
+</picture>
+
 </div>
 
 ###
