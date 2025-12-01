@@ -21,16 +21,23 @@ jobs:
           template: classic
           config_timezone: America/Phoenix
           
+          # Remove ALL header/bio info
           base: ""
+          base_hireable: no
+          
+          # Full width
+          config_display: large
+          config_padding: 0, 8 + 11%
+          
           filename: github-stats.svg
           
-          # Full contribution history - ALL years since join
-          plugin_calendar: yes
-          plugin_calendar_limit: 0    # 0 = show ALL years
-          
-          # Languages
+          # Languages only - clean bar
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_details: percentage
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
+          
+          # Full contribution history
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
