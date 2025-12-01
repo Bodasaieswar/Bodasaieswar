@@ -1,5 +1,4 @@
 name: Generate GitHub Metrics
-
 on:
   schedule:
     - cron: '0 0 * * *'
@@ -20,14 +19,18 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: bodasaieswar
           template: classic
-          base: header, activity, community, repositories, metadata
-          base_indepth: yes
-
+          config_timezone: America/Phoenix
+          
+          base: ""
           filename: github-stats.svg
-
+          
+          # Full contribution history - ALL years since join
+          plugin_calendar: yes
+          plugin_calendar_limit: 0    # 0 = show ALL years
+          
+          # Languages
           plugin_languages: yes
           plugin_languages_limit: 8
+          plugin_languages_details: percentage
           plugin_languages_sections: most-used
-
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_languages_indepth: yes
